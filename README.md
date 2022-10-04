@@ -6,7 +6,7 @@
   - [Documentacion](#documentacion)
 ## Informacion general 
 Miniprojecto con ejemplos de como crear rutas y protegerlas en base a roles de usuarios y permisos.
-
+* [React, Rutas protegidas con React Router v6](https://www.youtube.com/watch?v=42tFXd1PdCk&t=2s)
 ## Tecnologias y librerias
 * [Visual Studio Code](https://code.visualstudio.com/): Version 1.71.2
 * [ReactJS](https://es.reactjs.org/): Version 18.2.0
